@@ -5,11 +5,11 @@ The oven source code is maintained separately in a private repository.
 
 ## Latest release
 
-**[v2026.10.02 — Manual Self Test & Vibration Sensor Data](https://github.com/andy-dextrous/technobake-downloads/releases/tag/v2026.10.02)**
+**[v2026.10.06 — Separator cleaning confirmation correction](https://github.com/andy-dextrous/technobake-downloads/releases/tag/v2026.10.06)**
 
 - **[Download the latest oven update ZIP](https://github.com/andy-dextrous/technobake-downloads/releases/latest/download/cro-update.zip)**
-- [Download this exact version](https://github.com/andy-dextrous/technobake-downloads/releases/download/v2026.10.02/cro-update.zip)
-- [SHA256 checksums](https://github.com/andy-dextrous/technobake-downloads/releases/download/v2026.10.02/SHA256SUMS)
+- [Download this exact version](https://github.com/andy-dextrous/technobake-downloads/releases/download/v2026.10.06/cro-update.zip)
+- [SHA256 checksums](https://github.com/andy-dextrous/technobake-downloads/releases/download/v2026.10.06/SHA256SUMS)
 
 These downloads are public and require no GitHub login. Detailed changes and
 verification limits are in the release notes.
